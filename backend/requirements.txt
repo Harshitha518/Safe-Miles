@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+psycopg2-binary
+python-multipart
+scikit-learn
+kneed
+numpy
+pandas
+matplotlib
+osmnx
+networkx
+folium
+ortools
